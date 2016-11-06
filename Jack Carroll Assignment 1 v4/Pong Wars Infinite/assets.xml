@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.25" GSCVersion="1.25.5977">
+  <sounds>
+    <music name="LightsaberClash-SoundBible">
+      <file name="Lightsaber Clash-SoundBible.com-203518049.mp3" size="16626" />
+    </music>
+    <music name="halo_energy_sword">
+      <file name="halo_energy_sword.mp3" size="18099" />
+    </music>
+    <music name="erro">
+      <file name="erro.mp3" size="15846" />
+    </music>
+    <music name="HugeCrowd-SoundBible">
+      <file name="Huge Crowd-SoundBible.com-1425575436.mp3" size="118027" />
+    </music>
+    <music name="Smashing-Yuri_Santana-1233262689">
+      <file name="Smashing-Yuri_Santana-1233262689.mp3" size="23353" />
+    </music>
+    <music name="5_Sec_Crowd_Cheer-Mike_Koenig-1562033255">
+      <file name="5_Sec_Crowd_Cheer-Mike_Koenig-1562033255.mp3" size="92323" />
+    </music>
+    <sound name="FakeApplause-SoundBible">
+      <file name="FakeApplause-SoundBible.ogg" size="57633" />
+    </sound>
+    <sound name="MetalClang-SoundBible">
+      <file name="MetalClang-SoundBible.ogg" size="64442" />
+    </sound>
+  </sounds>
+  <images>
+    <image name="space-2">
+      <file name="space-2.png" size="946306" />
+    </image>
+    <image name="sky-space-dark-galaxy">
+      <file name="sky-space-dark-galaxy.png" size="5965932" />
+    </image>
+    <image name="Jedi Lightsaber">
+      <file name="Jedi Lightsaber.png" size="21126" />
+    </image>
+    <image name="Death-Star-star-wars-4534240-1280-8001">
+      <file name="Death-Star-star-wars-4534240-1280-8001.png" size="333503" />
+    </image>
+    <image name="Halo Energy Sword">
+      <file name="Halo Energy Sword.png" size="78394" />
+    </image>
+    <image name="Sci fi Wall">
+      <file name="Sci fi Wall.png" size="288918" />
+    </image>
+    <image name="Line">
+      <file name="Line.png" size="7154" />
+    </image>
+  </images>
+  <fonts />
+  <behaviors />
+</assets>

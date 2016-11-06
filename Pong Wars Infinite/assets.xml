@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.25" GSCVersion="1.25.5977">
+  <sounds>
+    <music name="LightsaberClash-SoundBible">
+      <file name="Lightsaber Clash-SoundBible.com-203518049.mp3" size="16626" />
+    </music>
+    <music name="halo_energy_sword">
+      <file name="halo_energy_sword.mp3" size="18099" />
+    </music>
+  </sounds>
+  <images>
+    <image name="Jedi Lightsaber">
+      <file name="Jedi Lightsaber.png" size="21126" />
+    </image>
+    <image name="Halo Energy Sword">
+      <file name="Halo Energy Sword.png" size="78394" />
+    </image>
+    <image name="Sci fi Wall">
+      <file name="Sci fi Wall.png" size="288918" />
+    </image>
+    <image name="space-2">
+      <file name="space-2.png" size="946306" />
+    </image>
+    <image name="sky-space-dark-galaxy">
+      <file name="sky-space-dark-galaxy.png" size="5965932" />
+    </image>
+    <image name="Red line">
+      <file name="Red line.png" size="4705" />
+    </image>
+    <image name="Death-Star-star-wars-4534240-1280-8001">
+      <file name="Death-Star-star-wars-4534240-1280-8001.png" size="333503" />
+    </image>
+    <image name="White line">
+      <file name="White line.png" size="527" />
+    </image>
+  </images>
+  <fonts />
+  <behaviors />
+</assets>
