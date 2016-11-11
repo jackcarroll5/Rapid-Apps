@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.25" GSCVersion="1.25.5977">
+  <sounds>
+    <music name="Beginning">
+      <file name="Beginning.mp3" size="2942668" />
+    </music>
+    <sound name="Explosion+2">
+      <file name="Explosion+2.ogg" size="23808" />
+    </sound>
+    <sound name="Fall">
+      <file name="Fall.ogg" size="34462" />
+    </sound>
+  </sounds>
+  <images>
+    <image name="Asteroid">
+      <file name="Asteroid.png" size="559959" />
+    </image>
+    <image name="Start">
+      <file name="Start.png" size="40317" />
+    </image>
+    <image name="Explosion">
+      <file name="Explosion.png" size="867525" />
+    </image>
+    <image name="Game Over">
+      <file name="Game Over.png" size="7728" />
+    </image>
+    <image name="Ground_(front_layer)">
+      <file name="Ground_(front_layer).png" size="4704" />
+    </image>
+    <image name="Refresh 1">
+      <file name="Refresh 1.png" size="65472" />
+    </image>
+    <image name="nightsky-city-hills-landscape-urban-highriser">
+      <file name="nightsky-city-hills-landscape-urban-highriser.png" size="51690" />
+    </image>
+    <image name="Asteroid 2">
+      <file name="Asteroid 2.png" size="312978" />
+    </image>
+    <image name="Asteroid 3">
+      <file name="Asteroid 3.png" size="14848" />
+    </image>
+  </images>
+  <fonts />
+  <behaviors />
+</assets>
