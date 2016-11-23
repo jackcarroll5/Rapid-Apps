@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 2 -  3 Little Pigs (Roald Dahl).CSharp.Plugins", "Assignment 2 -  3 Little Pigs (Roald Dahl).CSharp.Plugins.csproj", "{91A0435E-85C7-B731-1CEF-75828F2DD3B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 2 -  3 Little Pigs (Roald Dahl).CSharp", "Assignment 2 -  3 Little Pigs (Roald Dahl).CSharp.csproj", "{1DF95407-66F1-09E4-8616-BC85B9F89FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 2 -  3 Little Pigs (Roald Dahl).CSharp.Editor", "Assignment 2 -  3 Little Pigs (Roald Dahl).CSharp.Editor.csproj", "{AFA0EED8-D5A8-91BF-9521-3E369ED61951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A0435E-85C7-B731-1CEF-75828F2DD3B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A0435E-85C7-B731-1CEF-75828F2DD3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A0435E-85C7-B731-1CEF-75828F2DD3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A0435E-85C7-B731-1CEF-75828F2DD3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF95407-66F1-09E4-8616-BC85B9F89FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF95407-66F1-09E4-8616-BC85B9F89FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF95407-66F1-09E4-8616-BC85B9F89FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF95407-66F1-09E4-8616-BC85B9F89FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA0EED8-D5A8-91BF-9521-3E369ED61951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA0EED8-D5A8-91BF-9521-3E369ED61951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA0EED8-D5A8-91BF-9521-3E369ED61951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA0EED8-D5A8-91BF-9521-3E369ED61951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
