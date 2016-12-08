@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assignment 2 -  3 Little Pigs (Roald Dahl) V4.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Collision.js">
+    <Files>
+      <File FileName="Assets\DestroyTwig.js" Line="1" Column="1" />
+      <File FileName="Assets\Switch Scene.js" Line="1" Column="1" />
+      <File FileName="Assets\Switch Scene 2.js" Line="1" Column="1" />
+      <File FileName="Assets\Switch Scene 3.js" Line="1" Column="1" />
+      <File FileName="Assets\Collision Wolf.js" Line="9" Column="55" />
+      <File FileName="Assets\Collision.js" Line="9" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

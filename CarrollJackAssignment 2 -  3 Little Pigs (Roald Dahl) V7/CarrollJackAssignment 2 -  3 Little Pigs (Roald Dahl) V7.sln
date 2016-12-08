@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrollJackAssignment 2 -  3 Little Pigs (Roald Dahl) V7.CSharp.Plugins", "CarrollJackAssignment 2 -  3 Little Pigs (Roald Dahl) V7.CSharp.Plugins.csproj", "{1B1C3249-2DA0-F290-9806-D3F88ADE588D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrollJackAssignment 2 -  3 Little Pigs (Roald Dahl) V7.CSharp", "CarrollJackAssignment 2 -  3 Little Pigs (Roald Dahl) V7.CSharp.csproj", "{BB6BD210-11BD-6B80-AB63-A5C16587F56C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrollJackAssignment 2 -  3 Little Pigs (Roald Dahl) V7.CSharp.Editor", "CarrollJackAssignment 2 -  3 Little Pigs (Roald Dahl) V7.CSharp.Editor.csproj", "{DFF84E96-0136-4248-4AFC-1643F2EEF0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B1C3249-2DA0-F290-9806-D3F88ADE588D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1C3249-2DA0-F290-9806-D3F88ADE588D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1C3249-2DA0-F290-9806-D3F88ADE588D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1C3249-2DA0-F290-9806-D3F88ADE588D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6BD210-11BD-6B80-AB63-A5C16587F56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6BD210-11BD-6B80-AB63-A5C16587F56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6BD210-11BD-6B80-AB63-A5C16587F56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6BD210-11BD-6B80-AB63-A5C16587F56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF84E96-0136-4248-4AFC-1643F2EEF0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF84E96-0136-4248-4AFC-1643F2EEF0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF84E96-0136-4248-4AFC-1643F2EEF0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF84E96-0136-4248-4AFC-1643F2EEF0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

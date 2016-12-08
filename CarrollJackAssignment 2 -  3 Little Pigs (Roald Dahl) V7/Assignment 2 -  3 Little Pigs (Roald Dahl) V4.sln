@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 2 -  3 Little Pigs (Roald Dahl) V4.CSharp.Plugins", "Assignment 2 -  3 Little Pigs (Roald Dahl) V4.CSharp.Plugins.csproj", "{9FBEFAB7-2B6F-2B04-A043-E62895314292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 2 -  3 Little Pigs (Roald Dahl) V4.CSharp", "Assignment 2 -  3 Little Pigs (Roald Dahl) V4.CSharp.csproj", "{D2A0732D-C4E3-4EEA-6E04-5F134C3C6588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 2 -  3 Little Pigs (Roald Dahl) V4.CSharp.Editor", "Assignment 2 -  3 Little Pigs (Roald Dahl) V4.CSharp.Editor.csproj", "{0C3B455A-D5E4-C027-6498-5674FE82C395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FBEFAB7-2B6F-2B04-A043-E62895314292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBEFAB7-2B6F-2B04-A043-E62895314292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBEFAB7-2B6F-2B04-A043-E62895314292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBEFAB7-2B6F-2B04-A043-E62895314292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A0732D-C4E3-4EEA-6E04-5F134C3C6588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A0732D-C4E3-4EEA-6E04-5F134C3C6588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A0732D-C4E3-4EEA-6E04-5F134C3C6588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A0732D-C4E3-4EEA-6E04-5F134C3C6588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3B455A-D5E4-C027-6498-5674FE82C395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3B455A-D5E4-C027-6498-5674FE82C395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3B455A-D5E4-C027-6498-5674FE82C395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3B455A-D5E4-C027-6498-5674FE82C395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

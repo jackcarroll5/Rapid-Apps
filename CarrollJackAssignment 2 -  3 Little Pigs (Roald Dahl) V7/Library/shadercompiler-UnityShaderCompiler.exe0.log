@@ -1,0 +1,31 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=928 outsize=289 ok=1
+Cmd: preprocess
+  error: 2 plat 18 at (40): Can't find include file frag_ao.cginc
+  error: 2 plat 18 at (44): Can't find include file frag_ao.cginc
+  error: 2 plat 18 at (48): Can't find include file frag_ao.cginc
+  error: 2 plat 18 at (52): Can't find include file frag_ao.cginc
+  error: 2 plat 18 at (57): Can't find include file frag_ao.cginc
+  insize=6511 outsize=781 ok=0
+Cmd: preprocess
+  insize=1097 outsize=289 ok=1
+Cmd: preprocess
+  insize=2413 outsize=753 ok=1
+Cmd: preprocess
+  insize=8413 outsize=4704 ok=1
+Cmd: preprocess
+  insize=1193 outsize=303 ok=1
+Cmd: preprocess
+  insize=1878 outsize=597 ok=1
+Cmd: preprocess
+  insize=1530 outsize=277 ok=1
+Cmd: preprocess
+  insize=3696 outsize=630 ok=1
+Cmd: preprocess
+  insize=650 outsize=290 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1456 outsize=610 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1456 outsize=422 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
